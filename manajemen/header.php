@@ -110,13 +110,13 @@
 
           <li>
             <a href="kategori.php">
-              <i class="fa fa-folder"></i> <span>DATA KATEGORI</span>
+              <i class="fa fa-folder"></i> <span>KATEGORI</span>
             </a>
           </li>
 
           <li>
             <a href="transaksi.php">
-              <i class="fa fa-folder"></i> <span>DATA TRANSAKSI</span>
+              <i class="fa fa-folder"></i> <span>TRANSAKSI</span>
             </a>
           </li>
 

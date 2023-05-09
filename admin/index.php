@@ -177,7 +177,7 @@
             <i class="ion ion-cash"></i>
             <i class="ion ion-arrow-right-c"></i>
           </div>
-          <!-- <a href="#" class="small-box-footer">More info <i class="fa fa-arrow-circle-right"></i></a> -->
+          <a href="#" class="small-box-footer"> <i class="fa fa-arrow-circle-right"></i></a>
         </div>
       </div>
 
@@ -197,7 +197,7 @@
             <i class="ion ion-stats-bars"></i>
             <i class="ion ion-arrow-right-c"></i>
           </div>
-          <!-- <a href="#" class="small-box-footer">More info <i class="fa fa-arrow-circle-right"></i></a> -->
+          <a href="#" class="small-box-footer"> <i class="fa fa-arrow-circle-right"></i></a>
         </div>
       </div>
       
@@ -218,7 +218,7 @@
             <i class="ion ion-stats-bars"></i>
             <i class="ion ion-arrow-right-c"></i>
           </div>
-          <!-- <a href="#" class="small-box-footer">More info <i class="fa fa-arrow-circle-right"></i></a> -->
+          <a href="#" class="small-box-footer"> <i class="fa fa-arrow-circle-right"></i></a>
         </div>
       </div>
 
@@ -235,7 +235,7 @@
           <div class="icon">
             <i class="ion ion-stats-bars"></i>
           </div>
-          <!-- <a href="#" class="small-box-footer">More info <i class="fa fa-arrow-circle-right"></i></a> -->
+          <a href="#" class="small-box-footer"> <i class="fa fa-arrow-circle-right"></i></a>
         </div>
       </div>
 
