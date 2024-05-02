@@ -62,7 +62,7 @@ if($filename == ""){
 	}else{
 		move_uploaded_file($_FILES['trnfoto']['tmp_name'], '../gambar/bukti/'.$rand.'_'.$filename);
 		$xgambar = $rand.'_'.$filename;
-		mysqli_query($koneksi, "update transaksi set transaksi_tanggal='$tanggal', transaksi_jenis='$jenis', transaksi_kategori='$kategori', transaksi_nominal='$nominal', transaksi_keterangan='$keterangan',transaksi_foto='$xgambar', transaksi_bank='$bank' where transaksi_id='$id'");
+		mysqli_query($koneksi, "update transaksi set transaksi_tanggal='$tanggal', transaksi_jenis='$jenis', transaksi_kategori='$kategori', transaksi_nominal='$nominal', transaksi_keterangan='$keterangan',transaksi_gambar='$xgambar', transaksi_bank='$bank' where transaksi_id='$id'");
 		header("location:transaksi.php?alert=berhasilupdate");
 	}
 }

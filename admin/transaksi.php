@@ -259,8 +259,8 @@
                                   <div class="form-group" style="width:100%;margin-bottom:20px">
                                     <label>Upload File</label>
                                     <input type="file" name="trnfoto" class="form-control"><br>
-                                    <!-- <small><?php echo $d['transaksi_foto'] ?></small> -->
-                                    <p class="help-block">Bila File <?php echo "<a class='fancybox btn btn-xs btn-primary' target=_blank href='../gambar/bukti/$d[transaksi_foto]'>$d[transaksi_foto]</a>";?> tidak dirubah kosongkan saja</p>
+                                    <!-- <small><?php echo $d['transaksi_gambar'] ?></small> -->
+                                    <p class="help-block">Bila File <?php echo "<a class='fancybox btn btn-xs btn-primary' target=_blank href='../gambar/bukti/$d[transaksi_gambar]'>$d[transaksi_gambar]</a>";?> tidak dirubah kosongkan saja</p>
                                   </div>
 
                                   <div class="form-group" style="width:100%;margin-bottom:20px">
@@ -299,7 +299,7 @@
                                   </button>
                                 </div>
                                 <div class="modal-body">
-                                  <embed src="../gambar/bukti/<?php echo $d['transaksi_foto']; ?>" type="application/pdf" width="100%" height="400px" />
+                                  <embed src="../gambar/bukti/<?php echo $d['transaksi_gambar']; ?>" type="application/pdf" width="100%" height="400px" />
                                 </div>
                                 <div class="modal-footer">
                                   <button type="button" class="btn btn-secondary" data-dismiss="modal">Tutup</button>
